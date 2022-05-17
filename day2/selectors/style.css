@@ -1,0 +1,49 @@
+h1{
+    color:tomato;
+    background-color: blueviolet;
+}
+
+.red{
+    color:red;
+    text-decoration: line-through;
+}
+.green {
+    height: 300px;
+    width: 200px;
+    color: green;
+    border: 3px solid black;
+    padding: 20px;
+    margin-left: 75px;
+}
+
+h1, p{
+
+}
+#gold{
+    background-color: gold;
+}
+
+div > p, h4{
+    background-color: rgb(221, 177, 33);
+}
+
+p{
+    background-color: aquamarine;
+}
+
+.parent h3{
+    background-color: violet;
+}
+
+.notviolet{
+    background-color: rgb(137, 243, 51);
+}
+
+.parent:hover{
+    font-family: cursive;
+    color: rebeccapurple;
+}
+
+.heavy{
+    font-weight:400;
+}
