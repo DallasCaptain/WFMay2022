@@ -21,10 +21,12 @@ body {
 /* Seach bar styles */
 .navright{
     display: flex;
-    text-align: center;
     justify-content: flex-end;
     align-items: center;
     gap: 10px;
+}
+input{
+    text-align: center;
 }
 .searchicon{
     width: 40px;
