@@ -1,0 +1,23 @@
+.container{
+    background-color: bisque;
+}
+
+p{
+    background-color: burlywood;
+    display:inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+ul, .nav{
+    background-color: aqua;
+}
+
+li, h5{
+    background-color: blueviolet;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
