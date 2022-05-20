@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.myspanclass{
+    /* margin: -15px; */
+}
+.playground{
+    position: relative;
+    margin-top: 200px;
+    height: 300px;
+    width: 500px;
+    display: inline-block;
+    background-color:yellow;
+}
+img{
+    width: 100px;
+    position: relative;
+    top: 100px;
+    /* bottom: 100px; */
+    /* right: 100px; */
+}
