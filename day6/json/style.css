@@ -1,0 +1,14 @@
+.dark{
+    background-color: rgb(73, 7, 73);
+    color: aliceblue;
+}
+
+
+.light{
+    background-color: rgb(169, 170, 170);
+    color: black;
+}
+
+.other{
+    border: 2px solid rgb(253, 0, 0);
+}
